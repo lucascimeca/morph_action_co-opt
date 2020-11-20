@@ -1,6 +1,6 @@
-# Robot Piano Learning - 25/05/2020
+# Robot Morph-Action co-optimization - 25/05/2020
 
-### Authors: Luca Scimeca (luca.scimeca@live.com) & Cheryn Ng (cheryn97@gmail.com)
+### Authors: Luca Scimeca (luca.scimeca@live.com) 
 
 ![Alt Text](https://github.com/lucascimeca/morph_action_co-opt/blob/master/assets/co-opt_short.gif)
 
