@@ -3,6 +3,7 @@
 ### Authors: Luca Scimeca (luca.scimeca@live.com) 
 
 ![Alt Text](https://github.com/lucascimeca/morph_action_co-opt/blob/master/assets/co-opt_short.gif)
+            
 
 
 This repository contains code and data for the "Efficient Bayesian Exploration for Soft Morphology-Action Co-optimization" project in the Engineering Department of the University of Cambridge, under the supervision of Fumiya Iida. 
